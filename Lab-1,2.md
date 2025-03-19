@@ -52,7 +52,7 @@ ls
 ## Snippets of the Task Performed
 
 ### 1. Creating Files and Directories
-![Creating Files and Directories](screenshots/create_files_dirs.png)
+![Creating Files and Directories](create_files_dirs.png)
 
 ---
 
